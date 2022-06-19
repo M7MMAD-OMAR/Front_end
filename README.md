@@ -1,5 +1,5 @@
 # Front End
-Here all project with (HTML, CSS, JavaScript)
+Here all projects by (HTML, CSS, JavaScript)
 
 
 ## 1.  Navigation Bar is responsive.
